@@ -33,24 +33,10 @@ cd crm-project
 
 # Install dependencies
 npm install
-
-# Configure the database and environment variables
-# ...
+```
 
 # Start the application
 npm start
 
-Usage
-
-Explain how users can use your CRM system. Include screenshots or code snippets if necessary. Provide examples of common use cases to help users understand how to interact with the system.
-Contribution
-
-If you welcome contributions from the community, outline the process for how others can contribute to your project. This could include information on submitting bug reports, feature requests, or pull requests.
-License
-
-Specify the license under which your CRM project is distributed. Common choices include MIT, Apache, or GPL licenses. Make sure to include a LICENSE file in your project.
-Contact
-
-Provide information on how users can reach out to you for support, feedback, or questions.
 
 
